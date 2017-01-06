@@ -3,7 +3,7 @@
   "description": "红动分析系统的SDK",
   "minimum-stability": "stable",
   "license": "proprietary",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "duzhong",
