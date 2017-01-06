@@ -1,8 +1,8 @@
 {
   "name": "redocn/analytics-sdk",
   "description": "红动分析系统的SDK",
-  "minimum-stability": "stable",
-  "license": "proprietary",
+  "minimum-stability": "dev",
+  "license": "MIT",
   "version": "1.0.0",
   "authors": [
     {
@@ -17,5 +17,8 @@
     "psr-4": {
       "\\Redocn\\Analytics\\": "src/"
     }
+  },
+  "support": {
+    "source": "https://github.com/lovewqww/analytics-sdk"
   }
 }
