@@ -1,5 +1,5 @@
 {
-  "name": "redocn/analytics",
+  "name": "redocn/analytics-sdk",
   "description": "红动分析系统的SDK",
   "minimum-stability": "stable",
   "license": "proprietary",
